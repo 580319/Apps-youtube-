@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TubeAudio</string>
+    <string name="playback_channel_name">Audio Playback</string>
+    <string name="playback_channel_description">Continuous background audio streaming playback and lock-screen controls</string>
+    <string name="input_url_hint">Enter stream URL (e.g. https://.../audio.mp3)</string>
+    <string name="stream_audio">Stream Audio</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="rewind_10s">Rewind 10 seconds</string>
+    <string name="forward_10s">Forward 10 seconds</string>
+    <string name="mute">Mute</string>
+    <string name="unmute">Unmute</string>
+    <string name="live_stream">LIVE STREAM</string>
+    <string name="preset_streams">Featured Presets</string>
+    <string name="saved_streams">Stream History</string>
+    <string name="empty_history">No streams played yet. Paste a link or pick a preset above!</string>
+    <string name="notification_permission_title">Enable Background Playback Notifications</string>
+    <string name="notification_permission_desc">Allow notifications so you can control playback from your lock screen and notification bar while minimized.</string>
+    <string name="grant_permission">Grant</string>
+</resources>
